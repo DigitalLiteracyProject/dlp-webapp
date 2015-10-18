@@ -17,3 +17,8 @@ In production:
 ```
 $ gulp
 ```
+
+## Files you can work on
+
+* [app/index.html](app/index.html)
+* [app/scripts/main.js](app/scripts/main.js)
