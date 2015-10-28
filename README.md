@@ -23,6 +23,5 @@ In production:
 $ gulp
 ```
 
-## Files you can work on
-- [app/index.html](app/index.html)
-- [app/scripts/main.js](app/scripts/main.js)
+## Working with this sample repo
+Just go into [app/index.html](app/index.html) and insert your name!
