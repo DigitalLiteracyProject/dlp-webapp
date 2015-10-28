@@ -24,4 +24,4 @@ $ gulp
 ```
 
 ## Working with this sample repo
-Just go into [app/index.html](app/index.html) and insert your name!
+Just go into [app/index.html](app/index.html)!
